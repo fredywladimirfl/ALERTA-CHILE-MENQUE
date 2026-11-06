@@ -1,0 +1,8 @@
+{
+  "name": "Remix Alerta Chile",
+  "description": "Receive instant emergency notifications and safety alerts across Chile in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
